@@ -1,6 +1,6 @@
 <h3 align="center">Hello there, I'm Tanercan 👋</h3>
 <h5 align="center">
-  <code><a href="https://twitter.com/ttanercann" title="Twitter Profile"><img width="22" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-twitter-1.png"> Twitter</a></code>
+  <code><a href="https://twitter.com/ttanercann" title="Twitter Profile"><img width="22" src="https://www.vectorico.com/wp-content/uploads/2018/02/Twitter-Logo-300x244.png"> Twitter</a></code>
 </h5>
 <br>
 <p align="center">
