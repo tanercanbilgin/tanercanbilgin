@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3 align="center">Hello there, I'm Tanercan 👋</h3>
+<h5 align="center">
+  <code><a href="https://twitter.com/ttanercann" title="Twitter Profile"><img width="22" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png"> Twitter</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Tanercan, Student from Turkey
+  <br>
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning Python
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/tanercanbilgin/tanercanbilgin/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: tanercanbilgin@gmail.com">tanercanbilgin@gmail.com</a>
+</p>
 
-<!--
-**tanercanbilgin/tanercanbilgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<br>
+<h4 align="center"><a href=https://github.com/tanercanbilgin?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
+<br>
+<hr>
+<br>
