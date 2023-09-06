@@ -1,24 +1,12 @@
-<h3 align="center">Hello there, I'm Tanercan 👋</h3>
-<h5 align="center">
-  <code><a href="https://twitter.com/ttanercann" title="Twitter Profile"><img width="22" src="https://seeklogo.com/images/T/twitter-icon-square-logo-108D17D373-seeklogo.com.png"> Twitter</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Tanercan, Student from Turkey
-  <br>
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning Python
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/tanercanbilgin/tanercanbilgin/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: tanercanbilgin@gmail.com">tanercanbilgin@gmail.com</a>
-</p>
+### Hi there, I'm [Tanercan](https://github.com/tanercanbilgin) 👋
 
-<hr>
-<br>
-<h4 align="center"><a href="https://github.com/tanercanbilgin?tab=repositories" title="Show Repositories">🔎 Check my Repositories 🔍</a></h4>
-<br>
-<hr>
-<br>
+I'm a passionate electrical electronics engineering student with a keen interest in embedded development and technology. Welcome to my GitHub profile!
+
+- 🔭 I’m currently working on embedded development projects, starting with Arduino and moving towards STM32 microcontroller boards.
+- 🌱 I’m continually learning and expanding my skills in embedded systems, C/C++ programming, and hardware-software integration.
+- 💬 Ask me about anything related to electrical electronics engineering or embedded development.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/tanercanbilgin) or [Twitter](https://twitter.com/ttanercann).
+
+Feel free to explore my repositories and get in touch. Let's connect and collaborate on exciting projects!
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=tanercanbilgin.tanercanbilgin)
